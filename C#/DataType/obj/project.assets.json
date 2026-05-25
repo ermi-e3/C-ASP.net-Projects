@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abeka\\Desktop\\C#\\DataType\\DataType.csproj",
+      "projectUniqueName": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\DataType\\DataType.csproj",
       "projectName": "DataType",
-      "projectPath": "C:\\Users\\abeka\\Desktop\\C#\\DataType\\DataType.csproj",
+      "projectPath": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\DataType\\DataType.csproj",
       "packagesPath": "C:\\Users\\abeka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abeka\\Desktop\\C#\\DataType\\obj\\",
+      "outputPath": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\DataType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abeka\\AppData\\Roaming\\NuGet\\NuGet.Config",
