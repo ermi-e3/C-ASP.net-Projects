@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\TMS\\TMS.csproj": {}
+    "C:\\Users\\abeka\\Desktop\\C#\\TMS\\TMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\TMS\\TMS.csproj": {
+    "C:\\Users\\abeka\\Desktop\\C#\\TMS\\TMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\TMS\\TMS.csproj",
+        "projectUniqueName": "C:\\Users\\abeka\\Desktop\\C#\\TMS\\TMS.csproj",
         "projectName": "TMS",
-        "projectPath": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\TMS\\TMS.csproj",
+        "projectPath": "C:\\Users\\abeka\\Desktop\\C#\\TMS\\TMS.csproj",
         "packagesPath": "C:\\Users\\abeka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abeka\\Desktop\\ASP.NET\\C#\\C-ASP.net-Projects\\C#\\TMS\\obj\\",
+        "outputPath": "C:\\Users\\abeka\\Desktop\\C#\\TMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abeka\\AppData\\Roaming\\NuGet\\NuGet.Config",
