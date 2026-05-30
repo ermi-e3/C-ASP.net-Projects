@@ -11,6 +11,7 @@ function isStudent(value) {
         typeof value.id === "string" &&
         typeof value.name === "string");
 }
+// Type Guard
 function parseStudent(raw) {
     if (typeof raw !== "object" || raw === null) {
         throw new TypeError(`Expected an Object, received ${raw === null ? "null" : typeof raw}`);
